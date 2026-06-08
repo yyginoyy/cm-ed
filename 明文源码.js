@@ -125,7 +125,7 @@ export default {
 							sub = 'noTLS.fxxk.dedyn.io'; 
 							subconfig = env.SUBCONFIG || 'https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online.ini';
 						} else {
-							sub = 'VLESS.fxxk.dedyn.io';
+							sub = 'addressesapi.090227.xyz/ip.164746.xyz';
 							subconfig = env.SUBCONFIG || "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini";
 						}
 					}
